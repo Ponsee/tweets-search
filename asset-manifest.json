@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tweets-search/static/css/main.4249fb2b.chunk.css",
+    "main.js": "/tweets-search/static/js/main.6b9cb3f6.chunk.js",
+    "main.js.map": "/tweets-search/static/js/main.6b9cb3f6.chunk.js.map",
+    "runtime-main.js": "/tweets-search/static/js/runtime-main.b8ca1c00.js",
+    "runtime-main.js.map": "/tweets-search/static/js/runtime-main.b8ca1c00.js.map",
+    "static/js/2.96965d6d.chunk.js": "/tweets-search/static/js/2.96965d6d.chunk.js",
+    "static/js/2.96965d6d.chunk.js.map": "/tweets-search/static/js/2.96965d6d.chunk.js.map",
+    "index.html": "/tweets-search/index.html",
+    "precache-manifest.7163411df786b09a656bc40f8528b9d2.js": "/tweets-search/precache-manifest.7163411df786b09a656bc40f8528b9d2.js",
+    "service-worker.js": "/tweets-search/service-worker.js",
+    "static/css/main.4249fb2b.chunk.css.map": "/tweets-search/static/css/main.4249fb2b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8ca1c00.js",
+    "static/js/2.96965d6d.chunk.js",
+    "static/css/main.4249fb2b.chunk.css",
+    "static/js/main.6b9cb3f6.chunk.js"
+  ]
+}
